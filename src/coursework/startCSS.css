@@ -1,0 +1,16 @@
+.root{
+    -fx-background-color: #66ffff;
+    -fx-font-weight: bold;
+    -fx-padding: 10;
+    -fx-alignment:CENTER;
+}
+
+.mainMenu{
+    -fx-alignment:CENTER;
+    -fx-font-size: 12pt;
+}
+
+.futoshiki{
+    -fx-font-size: 24pt;
+    -fx-padding: 10;
+}
